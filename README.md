@@ -8,6 +8,7 @@ usage: app.py [-h] [-o OUTPUT] target xsl
 ` pip install -r requirements.txt`
 
 # Usage
+```
 positional arguments:
   target                Source file
   xsl                   XSL file
@@ -15,3 +16,4 @@ positional arguments:
 options:
   -o OUTPUT, --output OUTPUT
                         Output file
+```
